@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Gboard clipboard, any text that you copy will be saved here.
 
 <!--
 **Filo6699/Filo6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
