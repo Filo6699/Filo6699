@@ -1,6 +1,3 @@
-My mood:
-![Mood svg from an API](https://urlshort.xyz/my-mood/get-svg)
-
 **Filo6699/Filo6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
